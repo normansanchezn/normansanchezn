@@ -1,5 +1,7 @@
 <h3 align="center">I'm an Android developer who loves data science</h3>
 
+# Abuot me
+
 - 🔭 I’m currently working on [RUUT](https://ruut.mx/)
 
 - 🌱 I’m currently learning **Data Science with Python.**
@@ -18,7 +20,7 @@
 <p align="left">
 </p>
 
-## Languages and Tools:
+# Languages and Tools:
 <p align="left">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg"
             alt="android" width="40" height="40" /> 
