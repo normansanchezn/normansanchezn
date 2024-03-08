@@ -1,4 +1,4 @@
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Android Developer and Data Science</h3>
 
 - 🔭 I’m currently working on [RUUT](https://ruut.mx/)
 
