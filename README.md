@@ -17,10 +17,10 @@
 - ⚡ Fun fact **I love Harry Potter 🧙‍♂️**
 
 # Technical Skills:
-
 ### Mobile Developer
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/Android_logo_%282015-2019%29.svg" alt="android" width="40" height="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Apple_logo_grey.svg" alt="iOS" width="40" height="40" />
   <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40" />
   <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40" />
   <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40" />
