@@ -2,8 +2,6 @@
 
 # Abuot me
 
-- 🔭 I’m currently working on [RUUT](https://ruut.mx/)
-
 - 🌱 I’m currently learning **Data Science with Python.**
 
 - 🤝 I’m looking for help with **Data Science**
