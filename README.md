@@ -1,6 +1,6 @@
 <h3 align="center">I'm an Android developer who loves data science</h3>
 
-# Abuot me
+# About me
 
 - 🌱 I’m currently learning **Data Science with Python.**
 
