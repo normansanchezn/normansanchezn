@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Data Science with Python.**
 
-- 🤝 I’m looking for help with **Data Science**
+- 🤝 I’m looking for help with **Android, iOS, Clean Code, Tech Management and Design Patterns**
 
 - 📝 I regularly write articles on [https://medium.com/@normansanchez](https://medium.com/@normansanchez)
 
