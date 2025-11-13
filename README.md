@@ -2,7 +2,7 @@
 
 # About me
 
-- 🌎 normansanchez.dev
+- 🌎 [normansanchez.dev](https://normansanchez.dev/)
 
 - 🌱 I’m currently learning **Compose and Swift UI**
 
