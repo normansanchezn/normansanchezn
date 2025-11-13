@@ -2,7 +2,9 @@
 
 # About me
 
-- 🌱 I’m currently learning **Data Science with Python.**
+- 🌎 normansanchez.dev
+
+- 🌱 I’m currently learning **Compose and Swift UI**
 
 - 🤝 I’m looking for help with **Android, iOS, Clean Code, Tech Management and Design Patterns**
 
